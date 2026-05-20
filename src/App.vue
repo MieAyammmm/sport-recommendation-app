@@ -1,7 +1,7 @@
-<script setup>
-import HelloWorld from './components/HelloWorld.vue'
-</script>
-
 <template>
-  <HelloWorld />
+  <DecisionTree />
 </template>
+
+<script setup>
+import DecisionTree from "./components/DecisionTree.vue";
+</script>
